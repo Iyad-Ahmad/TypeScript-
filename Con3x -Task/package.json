@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.7",
+    "ethers": "^6.11.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.11.27"
+  }
+}
